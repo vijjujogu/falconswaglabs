@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Sample Master Suite File containing all relevant Suite Files -->
+<suite name="CompanySetup">
+<listeners>
+		
+		<listener class-name="org.atmecs.constant.ParallelExecutorSetter"/>
+	</listeners>
+
+	<suite-files>
+		
+		<suite-file path="./src/main/resources/suitefile/checkout.xml" />
+		
+	</suite-files>
+
+</suite>

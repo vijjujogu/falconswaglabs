@@ -1,0 +1,42 @@
+2022-11-17 17:44:32,475  INFO [main] TestSuiteBase:51 - Opening browser: chrome
+2022-11-17 17:44:35,265  INFO [main] TestSuiteBase:51 - Maximizing browser window
+2022-11-17 17:44:35,501  INFO [main] VerifyLoginTest:51 - username
+2022-11-17 17:44:35,565  INFO [main] VerifyLoginTest:51 - password
+2022-11-17 17:44:35,618  INFO [main] VerifyLoginTest:51 - clicked
+2022-11-17 17:44:35,650  INFO [main] VerifyLoginTest:51 - title
+2022-11-17 17:44:36,537  INFO [main] TestSuiteBase:51 - Opening browser: chrome
+2022-11-17 17:44:38,039  INFO [main] TestSuiteBase:51 - Maximizing browser window
+2022-11-17 17:44:38,262  INFO [main] VerifyLoginTest:51 - username
+2022-11-17 17:44:38,331  INFO [main] VerifyLoginTest:51 - password
+2022-11-17 17:44:38,382  INFO [main] VerifyLoginTest:51 - clicked
+2022-11-17 17:44:38,409  INFO [main] VerifyLoginTest:51 - title
+2022-11-17 17:44:39,392  INFO [main] TestSuiteBase:51 - Opening browser: chrome
+2022-11-17 17:44:40,789  INFO [main] TestSuiteBase:51 - Maximizing browser window
+2022-11-17 17:44:41,041  INFO [main] VerifyLoginTest:51 - username
+2022-11-17 17:44:41,125  INFO [main] VerifyLoginTest:51 - password
+2022-11-17 17:44:41,179  INFO [main] VerifyLoginTest:51 - clicked
+2022-11-17 17:44:41,206  INFO [main] VerifyLoginTest:51 - title
+2022-11-17 17:44:42,166  INFO [main] TestSuiteBase:51 - Opening browser: chrome
+2022-11-17 17:44:43,629  INFO [main] TestSuiteBase:51 - Maximizing browser window
+2022-11-17 17:44:43,839  INFO [main] VerifyLoginTest:51 - username
+2022-11-17 17:44:43,901  INFO [main] VerifyLoginTest:51 - password
+2022-11-17 17:44:43,963  INFO [main] VerifyLoginTest:51 - clicked
+2022-11-17 17:44:43,988  INFO [main] VerifyLoginTest:51 - title
+2022-11-17 17:44:45,077  INFO [main] TestSuiteBase:51 - Opening browser: chrome
+2022-11-17 17:44:46,704  INFO [main] TestSuiteBase:51 - Maximizing browser window
+2022-11-17 17:44:47,060  INFO [main] VerifyLoginTest:51 - username
+2022-11-17 17:44:47,229  INFO [main] VerifyLoginTest:51 - password
+2022-11-17 17:44:47,367  INFO [main] VerifyLoginTest:51 - clicked
+2022-11-17 17:44:47,429  INFO [main] VerifyLoginTest:51 - title
+2022-11-17 17:44:49,218  INFO [main] TestSuiteBase:51 - Opening browser: chrome
+2022-11-17 17:44:53,773  INFO [main] TestSuiteBase:51 - Maximizing browser window
+2022-11-17 17:44:54,627  INFO [main] VerifyLoginTest:51 - username
+2022-11-17 17:44:54,943  INFO [main] VerifyLoginTest:51 - password
+2022-11-17 17:44:55,146  INFO [main] VerifyLoginTest:51 - clicked
+2022-11-17 17:44:55,250  INFO [main] VerifyLoginTest:51 - title
+2022-11-17 17:45:01,246  INFO [main] TestSuiteBase:51 - Opening browser: chrome
+2022-11-17 17:45:07,090  INFO [main] TestSuiteBase:51 - Maximizing browser window
+2022-11-17 17:45:08,528  INFO [main] VerifyLoginTest:51 - username
+2022-11-17 17:45:08,955  INFO [main] VerifyLoginTest:51 - password
+2022-11-17 17:45:09,467  INFO [main] VerifyLoginTest:51 - clicked
+2022-11-17 17:45:09,678  INFO [main] VerifyLoginTest:51 - title

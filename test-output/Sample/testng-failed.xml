@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Sample]">
+  <test thread-count="5" name="SampleTest(failed)">
+    <classes>
+      <class name="org.atmecs.testscript.VerifyLoginTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="preSetup"/>
+          <include name="contactUsTest"/>
+        </methods>
+      </class> <!-- org.atmecs.testscript.VerifyLoginTest -->
+    </classes>
+  </test> <!-- SampleTest(failed) -->
+</suite> <!-- Failed suite [Sample] -->

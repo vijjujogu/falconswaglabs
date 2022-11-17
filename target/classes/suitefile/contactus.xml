@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Sample Suite File -->
+
+<suite name="Sample">
+
+	<test name="SampleTest">
+		<classes>
+		<!--  	<class name="org.atmecs.testscript.AtmecsContactUsTest" />-->
+			<class name="org.atmecs.testscript.VerifyLoginTest" />
+		</classes>
+	</test>
+
+</suite>
+
